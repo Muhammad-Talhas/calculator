@@ -3,12 +3,12 @@ import math             # Import math module for advanced operations.
 
 # Set page configuration 
 st.set_page_config(
-    page_title="Simple Calculator",
+    page_title="Speedy Calculator",
     page_icon="🧮",
 )
 def main():
     # Setting the page title .
-    st.title("🧮 Simple Calculator")  
+    st.title("🧮 Speedy Calculator")  
     st.write("✨ Enter two numbers and choose an operation ✨")  
 
     # Creating two columns for a side-by-side layout for inputs.
