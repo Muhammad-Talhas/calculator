@@ -1,6 +1,6 @@
 # Calculator
 
-A simple mood tracking application built with Python, UV, and Streamlit.
+A simple calculator application built with Python, UV, and Streamlit.
 
 ## Getting Started
 
